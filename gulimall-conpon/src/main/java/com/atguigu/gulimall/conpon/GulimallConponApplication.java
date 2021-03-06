@@ -8,6 +8,9 @@ public class GulimallConponApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GulimallConponApplication.class, args);
+
+        System.out.println("test");
+
     }
 
 }
